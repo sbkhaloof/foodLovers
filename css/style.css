@@ -1,0 +1,13 @@
+header{background-color:  rgba(255, 229, 72, 255);color: red;height: 80px;}
+main{background-image:url("img/background.jp") ;}
+h1{text-align: center;font-size: 50px;font-family: 'Fredoka One', cursive;}
+#myForm{margin-top: 50px;margin-left: 200px;background-color:  rgba(255, 229, 72, 255);
+    width: 250px;height: 250px;border-radius: 25px;display:block;}
+#myForm label{font-size: medium;font-family:'Fredoka One', cursive ;margin-left: 60px;margin-top: 20px;}
+#myForm input{margin-left: 50px;border-radius: 15px;}
+#myForm select{margin-left: 50px;width: 160px;border-radius: 15px;}
+#myForm input:last-child{background-color: red;color: white;border: white solid 1px;margin-top: 50px;width: 100px;}
+div{ background-color:  rgba(255, 229, 72, 255);margin-top: 20px;width:500px;margin-left: 600px;}
+table{width:470px;}
+table td{border: 1px solid red;}
+#tbody td:first-child img{width: 40px;height: 40px;}
